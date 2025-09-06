@@ -1,1 +1,1 @@
-["Makcolas","FoodTruck-b","8/22/2025","[\"Dummy\",\"MakcolasALT\",\"Kj\"]","MakcolasALT","Lemon","9/6/2025","[]"]
+["Makcolas","FoodTruck-b","8/22/2025","[\"Dummy\",\"MakcolasALT\",\"Kj\"]","[]","MakcolasALT","Lemon","9/6/2025","[]","[]"]
